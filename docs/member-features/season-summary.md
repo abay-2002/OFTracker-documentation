@@ -14,4 +14,4 @@ Now hit that `Seasons summary` button, then you'll be redirected into your [orga
 
 <img src="/img/docs-img-member/season-summary/season-summary-2.jpg" id="organisation-seasons-summary"/>
 
-In [this](#organisation-seasons-summary) page you could see the summarized data of your **previous organisation season** which have been ended by your **organisation admin**.
+In [this](#organisation-seasons-summary) page you could see the summarized data of your **previous organisation season** which have been ended by your **organisation admin**, **N.B** this feature wont be available when your **organisation season** is **running**.
