@@ -50,7 +50,9 @@ Once you've been accepted by the **organisation admin** into its **organisation*
 
 <img src="/img/docs-img-member/join-organisation/join-organisation-6.jpg" id="member-dashboard"/>
 
-Since the purpose of **OFTracker** was designed not only to make it easy for **organisation admin** to track its **member indbebt** on its **organisation**, but also to make that **organisation member** have the transperancy of what's going on in their **organisation cash**, thus let's understand some of the most important things from the **OFTracker** features.
+Since the purpose of **OFTracker** was designed not only to make it easy for **organisation admin** to track its **member indebt** on its **organisation**, but also to make that **organisation member** have the transperancy of what's going on in their **organisation cash**, thus let's understand some of the most important things from the **OFTracker** features.
+
+### Organisation details section
 
 Notice in your [organisation details](#organisaion-details-section) section, the **organisation cash goal** your **organisation admin** have been set to your **organisation cash goal** is **Rp.6.000.000,00**.
 
