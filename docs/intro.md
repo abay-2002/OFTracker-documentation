@@ -8,7 +8,7 @@ Let's find out what is **OFTracker** and how to get started with it in a few sim
 
 ## What is OFTracker?
 
-OFTracker was mainly designed for admin so he/she could calmly and neatly track organisation financial cash flow, set its organisation cash goal, see who's paid the organisation bill and those who haven't, though in the future it may added more features.
+**OFTracker** was mainly designed for admin so he/she could calmly and neatly track organisation financial cash flow, set its **organisation cash goal**, see who's already paid its **indebt** on your **organisation** and those who haven't, though in the future it may added more features.
 
 ## Choosing a role
 
