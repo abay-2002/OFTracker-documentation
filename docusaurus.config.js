@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'OFTracker tutorial',
   tagline: 'Soo easy.. I can do this with one hand tied behind my back',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://oftracker-docs.netlify.app/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -24,7 +24,7 @@ const config = {
   // to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
-    locales: ['en', 'id'],
+    locales: ['en'],
   },
 
   presets: [
@@ -85,6 +85,10 @@ const config = {
               {
                 label: 'Tutorial',
                 to: '/docs/intro',
+              },
+              {
+                label: 'OFTracker',
+                to: 'http://157.245.202.97:5000/',
               },
             ],
           },

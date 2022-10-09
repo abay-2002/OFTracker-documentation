@@ -17,7 +17,7 @@ const FeatureList = [
     Svg: require('@site/static/img/homepage-img/manage-your-organisation.svg').default,
     description: (
       <>
-        Calmly and neatly track your organisation financial cash flow, set your organisation cash goal, see who's paid the organisation bill and those who haven't.
+        Calmly and neatly track your organisation financial cash flow, set your organisation cash goal, see who's already paid its bill and those who's haven't.
       </>
     ),
   },
