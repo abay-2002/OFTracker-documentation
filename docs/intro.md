@@ -20,7 +20,7 @@ The main responsibility of **admin** is to manage the organisation, learn how to
 
 ### Member
 
-The organisation is nothing without member, the main purpose of the **member** is to pay their indebt, learn how to get started as **member** in this page [Member responsibitlity](./tutorial-basics/member-role.md).
+The organisation is nothing without member, the main purpose of the **member** is to pay their indebt, learn how to get started as **member** in this page [Member features](./category/member---features).
 
 ## Get started
 

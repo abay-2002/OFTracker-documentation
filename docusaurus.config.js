@@ -88,7 +88,7 @@ const config = {
               },
               {
                 label: 'OFTracker',
-                to: 'http://157.245.202.97:5000/',
+                to: 'https://oftracker.app/',
               },
             ],
           },
